@@ -1,0 +1,2 @@
+# DnD_Charater_Quick_Draw
+Ongoing project, making a program that will help make a randomised character, it will be for those who need to make a new character but are suffering from creative blocks or just want the most random experience possible in DnD. I will only be coding in the basic rules posted online by the creators, this project will grow with me as I learn and grow my skills in the coming months
